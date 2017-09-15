@@ -1,7 +1,6 @@
 FROM   ubuntu:16.04
 MAINTAINER JeriChen <jeri.chen0110@gmail.com>
 
-# set some environment variables
 ENV APP_NAME blog
 ENV APP_EMAIL blog@laravel.com
 ENV APP_DOMAIN blog.dev
